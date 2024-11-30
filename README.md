@@ -1,2 +1,2 @@
-# Diabetes-Prediction
- 
+# Daibetes
+ Daibetes_Risk_Analyser
