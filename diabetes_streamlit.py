@@ -36,7 +36,7 @@ import plotly.express as px
 # """, unsafe_allow_html=True)
 
 # Set page configuration
-st.set_page_config(page_title="Diabetes Risk Analyzer", page_icon="🩺", layout="wide")
+st.set_page_config(page_title="Diabetes Predictor", page_icon="🩺", layout="wide")
 
 # Load machine learning model
 @st.cache_resource
